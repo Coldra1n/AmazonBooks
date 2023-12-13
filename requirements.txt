@@ -2,4 +2,12 @@ numpy
 pandas
 matplotlib
 plotly
+lxml
+bs4
+wordcloud 
+requests
 scikit-learn
+hdbscan
+bertopic
+torch
+transformers
